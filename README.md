@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+
   
 
 ### <div align="center">Всем привет, меня зовут Александр и я начинающий front-end разработчик.</div>  
@@ -40,11 +38,6 @@
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 </div>
 
-
-
-
-
-</td></tr></table>  
 
 <br/>  
 
