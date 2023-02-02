@@ -37,17 +37,6 @@
 <br/>  
 
 
-## Github Stats  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=AlexandrAvia&show_icons=true&count_private=true&hide_border=true" align="center" />
-
-</div>  
-
-<br/>  
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandrAvia)](https://github.com/anuraghazra/github-readme-stats)
-  
-
 <br/>  
 
 [![codewars](https://www.codewars.com/users/AlexandrAvia/badges/large)](https://www.codewars.com/users/AlexandrAvia)
